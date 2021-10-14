@@ -23,7 +23,7 @@
 
 2. [Apache Storm Tools, Libraries, and Frameworks](https://github.com/mikeroyal/Apache-Storm-Guide#Apache-Storm-tools-libraries-and-frameworks)
 
-3. [Kubernetes](https://github.com/mikeroyal/Apache--Guide#kubernetes)
+3. [Kubernetes](https://github.com/mikeroyal/Apache-Storm-Guide#kubernetes)
 
 4. [Docker](https://github.com/mikeroyal/Apache-Storm-Guide#docker)
 
